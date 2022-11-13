@@ -5,3 +5,4 @@
  
  ![image](https://user-images.githubusercontent.com/87745990/201534494-7935c92e-0381-4517-b94d-6bc5ca1c8384.png)
 
+## 2주차 : 
