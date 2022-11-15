@@ -7,6 +7,8 @@
 
 ## 2. JQuery & Ajax (Qatar temperature)
 
+![image](https://user-images.githubusercontent.com/87745990/201962031-a873da91-d2db-42f1-ab0e-5ff515e1b031.png)
+
 ## 3. MongoDB
 
 ## 4. Flask
